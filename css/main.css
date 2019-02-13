@@ -1,0 +1,21 @@
+@charset "utf-8";
+body {
+	/* taustavärv */
+	background-color: #d5d5d4;
+	/* teksti värv */
+	color: #0000FF;
+	/* teksti suurus */ 
+	font-size: 14px;
+	/* teksti font*/
+	font-family: "Poppins", Arial, serif;
+}
+
+h1 {
+	font-size: 28px;
+	color: #000000;
+}
+
+b {
+	color: #FF0000;
+}
+
