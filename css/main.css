@@ -19,3 +19,76 @@ b {
 	color: #FF0000;
 }
 
+.box-one {
+	background-color: #f7f7f4;
+}
+
+.box-two {
+	background-color: #f7f7f3;
+}
+
+.box-three {
+	background-color: #f7f7f5;
+}
+
+.box {
+	float: left;
+	width: 25%;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding: 20px;
+	border: 10px solid #a7e7e7;
+}
+
+
+/* kõik valgeks */
+.main {
+	background-color: #fff;
+	min-height: 500px;
+}
+
+/* fonti suurus */
+.main h1 {
+   font-size: 40px;
+}
+
+/* fonti suurus */
+
+.main ul {
+   font-size: 18px;
+}
+
+/* fonti värv */
+
+.main b, .main h1 {
+   color: #4c5b68;
+}
+
+/* keskele ja millise suuruse suhtes */
+
+.energia-inner {
+	margin: 0 auto;
+	max-width: 1400px;
+}
+
+/* sisu nihutamine */
+
+.energia-content {
+	padding: 50px 20px 50px 280px;
+}
+
+.energia-content li {
+	padding-top: 30px;
+}
+
+/* sama klassiga tulbad */
+
+.main .col {
+	float: left;
+	width: 40%;
+}
+
+
+
+
