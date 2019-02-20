@@ -89,6 +89,45 @@ b {
 	width: 40%;
 }
 
+.eesti-main {
+		display: flex;
+		background-color: #5D6071;
+		max-width: 100%;
+}
+
+.eesti-inner {
+	    width: 1440px;
+		margin: 0 auto;
+}
+
+.eesti-row {
+	display: flex;
+	flex-direction: row;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.uudised {
+	display: flex;
+	flex-wrap: wrap;
+	flex-grow: 2;
+	background-color: #5D6071;
+	width: 60%;
+}
+
+.pidu {
+	display: flex;
+	padding-top: 18px;
+    padding-bottom: 2px;
+    color: #ffffff;
+    background-color: #0083BA;
+	width: 40%;
+}
+
+.eesti-col {
+	    flex-basis: auto;
+}
+
 
 
 
